@@ -6,7 +6,7 @@ if (
    (nacionalidad === 'francés' && comida === 'yogur') ||
    (nacionalidad !== 'chino' && comida === 'fideos')
 ) {
-   alert('¡Felicidades! Le damos el primer premio.');
+   alert('¡Felicidades!');
 } else {
-   alert('Lo siento, no cumple las condiciones para el premio.');
+   alert('Lo siento, no cumple las condiciones.');
 }
